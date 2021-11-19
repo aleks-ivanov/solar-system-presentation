@@ -4,6 +4,8 @@
 
 ![title image](images\planets\Mercury\Mercury_with_magnetic_field.png)
 
+> This is a description for the image
+
 Mercury is the smallest planet in the Solar System and the closest to the Sun.
 
 Having almost no atmosphere to retain heat,
