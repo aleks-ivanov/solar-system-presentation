@@ -84,3 +84,7 @@ Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of
 Surrounding Jupiter is a faint planetary ring system and a powerful magnetosphere. Jupiter's magnetic tail is nearly 800 million km long, covering the entire distance to Saturn's orbit. Jupiter has 80 known moons and possibly many more, including the four large Galilean moons discovered by Galileo Galilei in 1610. Ganymede, the largest of these, has a diameter greater than that of the planet Mercury.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CC7OJ7gFLvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
+[Receipt Eaters](https://pipeline.foundation/) 2021
