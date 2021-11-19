@@ -87,4 +87,4 @@ Surrounding Jupiter is a faint planetary ring system and a powerful magnetospher
 
 * * *
 
-[Receipt Eaters](https://pipeline.foundation/) 2021
+© 2021 [Receipt Eaters](https://pipeline.foundation/)
